@@ -1,0 +1,911 @@
+[  full-sym] n= 5 BFS                                cost=  487.42 time=   0.000s mem=       2.5KB frontier=      24 status=ok
+[  full-sym] n= 5 DFS                                cost=  487.42 time=   0.000s mem=       1.2KB frontier=       7 status=ok
+[  full-sym] n= 5 Greedy NN                          cost=  515.93 time=   0.000s mem=       1.7KB frontier=      11 status=ok
+[  full-sym] n= 5 Dijkstra (UCS)                     cost=  487.42 time=   0.000s mem=       3.4KB frontier=      52 status=ok
+[  full-sym] n= 5 A* MST (admissible)                cost=  487.42 time=   0.000s mem=       3.1KB frontier=      37 status=ok
+[  full-sym] n= 5 A* 2xMST (inadmissible)            cost=  515.93 time=   0.000s mem=       2.3KB frontier=      12 status=ok
+[  full-sym] n= 5 A* NN-completion (inadmissible)    cost=  487.42 time=   0.000s mem=       2.6KB frontier=      12 status=ok
+[  full-sym] n= 5 ACO                                cost=  487.42 time=   0.009s mem=       2.0KB frontier=      55 status=ok
+[  full-sym] n= 6 BFS                                cost=  497.07 time=   0.001s mem=      11.3KB frontier=     120 status=ok
+[  full-sym] n= 6 DFS                                cost=  497.07 time=   0.001s mem=       1.5KB frontier=      11 status=ok
+[  full-sym] n= 6 Greedy NN                          cost=  584.41 time=   0.000s mem=       2.1KB frontier=      16 status=ok
+[  full-sym] n= 6 Dijkstra (UCS)                     cost=  497.07 time=   0.001s mem=      11.2KB frontier=     138 status=ok
+[  full-sym] n= 6 A* MST (admissible)                cost=  497.07 time=   0.001s mem=       7.6KB frontier=      86 status=ok
+[  full-sym] n= 6 A* 2xMST (inadmissible)            cost=  519.39 time=   0.000s mem=       3.0KB frontier=      24 status=ok
+[  full-sym] n= 6 A* NN-completion (inadmissible)    cost=  516.47 time=   0.000s mem=       2.9KB frontier=      17 status=ok
+[  full-sym] n= 6 ACO                                cost=  497.07 time=   0.014s mem=       2.5KB frontier=      78 status=ok
+[  full-sym] n= 7 BFS                                cost=  517.82 time=   0.008s mem=      77.2KB frontier=     720 status=ok
+[  full-sym] n= 7 DFS                                cost=  517.82 time=   0.008s mem=       1.8KB frontier=      16 status=ok
+[  full-sym] n= 7 Greedy NN                          cost=  540.14 time=   0.000s mem=       2.5KB frontier=      22 status=ok
+[  full-sym] n= 7 Dijkstra (UCS)                     cost=  517.82 time=   0.003s mem=      47.2KB frontier=     374 status=ok
+[  full-sym] n= 7 A* MST (admissible)                cost=  517.82 time=   0.002s mem=      15.7KB frontier=     149 status=ok
+[  full-sym] n= 7 A* 2xMST (inadmissible)            cost=  540.14 time=   0.001s mem=       3.7KB frontier=      36 status=ok
+[  full-sym] n= 7 A* NN-completion (inadmissible)    cost=  529.37 time=   0.000s mem=       3.3KB frontier=      23 status=ok
+[  full-sym] n= 7 ACO                                cost=  517.82 time=   0.023s mem=       3.0KB frontier=     105 status=ok
+[  full-sym] n= 8 BFS                                cost=  534.06 time=   0.049s mem=     820.0KB frontier=    5040 status=ok
+[  full-sym] n= 8 DFS                                cost=  534.06 time=   0.040s mem=       2.2KB frontier=      22 status=ok
+[  full-sym] n= 8 Greedy NN                          cost=  575.00 time=   0.000s mem=       2.9KB frontier=      29 status=ok
+[  full-sym] n= 8 Dijkstra (UCS)                     cost=  534.06 time=   0.013s mem=     133.5KB frontier=     950 status=ok
+[  full-sym] n= 8 A* MST (admissible)                cost=  534.06 time=   0.002s mem=      24.9KB frontier=     224 status=ok
+[  full-sym] n= 8 A* 2xMST (inadmissible)            cost=  575.00 time=   0.000s mem=       3.6KB frontier=      34 status=ok
+[  full-sym] n= 8 A* NN-completion (inadmissible)    cost=  565.27 time=   0.001s mem=       3.7KB frontier=      30 status=ok
+[  full-sym] n= 8 ACO                                cost=  534.06 time=   0.029s mem=       4.1KB frontier=     136 status=ok
+[  full-sym] n= 9 BFS                                cost=  574.94 time=   0.451s mem=   10267.2KB frontier=   40320 status=ok
+[  full-sym] n= 9 DFS                                cost=  574.94 time=   0.331s mem=       3.0KB frontier=      29 status=ok
+[  full-sym] n= 9 Greedy NN                          cost=  615.88 time=   0.000s mem=       4.0KB frontier=      37 status=ok
+[  full-sym] n= 9 Dijkstra (UCS)                     cost=  574.94 time=   0.051s mem=     387.8KB frontier=    2397 status=ok
+[  full-sym] n= 9 A* MST (admissible)                cost=  574.94 time=   0.005s mem=      53.5KB frontier=     374 status=ok
+[  full-sym] n= 9 A* 2xMST (inadmissible)            cost=  615.88 time=   0.000s mem=       5.1KB frontier=      38 status=ok
+[  full-sym] n= 9 A* NN-completion (inadmissible)    cost=  612.96 time=   0.001s mem=       5.1KB frontier=      38 status=ok
+[  full-sym] n= 9 ACO                                cost=  574.94 time=   0.049s mem=       5.5KB frontier=     171 status=ok
+[  full-sym] n=10 BFS                                cost=  624.49 time=   4.307s mem=   92250.9KB frontier=  362880 status=ok
+[  full-sym] n=10 DFS                                cost=  624.49 time=   2.910s mem=       3.8KB frontier=      37 status=ok
+[  full-sym] n=10 Greedy NN                          cost=  681.43 time=   0.000s mem=       4.9KB frontier=      46 status=ok
+[  full-sym] n=10 Dijkstra (UCS)                     cost=  624.49 time=   0.091s mem=    1348.3KB frontier=    6109 status=ok
+[  full-sym] n=10 A* MST (admissible)                cost=  624.49 time=   0.008s mem=      86.8KB frontier=     556 status=ok
+[  full-sym] n=10 A* 2xMST (inadmissible)            cost=  665.74 time=   0.001s mem=       6.7KB frontier=      48 status=ok
+[  full-sym] n=10 A* NN-completion (inadmissible)    cost=  662.51 time=   0.001s mem=       6.0KB frontier=      47 status=ok
+[  full-sym] n=10 ACO                                cost=  643.11 time=   0.062s mem=       7.3KB frontier=     210 status=ok
+[  full-sym] n=11 BFS                                cost=    none time=   2.604s mem=  227439.1KB frontier= 1000002 status=node-limit
+[  full-sym] n=11 DFS                                cost=  698.17 time=  30.000s mem=       4.7KB frontier=      46 status=timeout
+[  full-sym] n=11 Greedy NN                          cost=  773.19 time=   0.000s mem=       5.9KB frontier=      56 status=ok
+[  full-sym] n=11 Dijkstra (UCS)                     cost=  698.17 time=   0.307s mem=    4449.6KB frontier=   14827 status=ok
+[  full-sym] n=11 A* MST (admissible)                cost=  698.17 time=   0.014s mem=     142.7KB frontier=     867 status=ok
+[  full-sym] n=11 A* 2xMST (inadmissible)            cost=  783.96 time=   0.001s mem=      10.1KB frontier=      69 status=ok
+[  full-sym] n=11 A* NN-completion (inadmissible)    cost=  749.45 time=   0.002s mem=       7.2KB frontier=      57 status=ok
+[  full-sym] n=11 ACO                                cost=  698.17 time=   0.090s mem=       9.0KB frontier=     253 status=ok
+[  full-sym] n=12 BFS                                cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[  full-sym] n=12 DFS                                cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[  full-sym] n=12 Greedy NN                          cost=  804.89 time=   0.000s mem=       7.1KB frontier=      67 status=ok
+[  full-sym] n=12 Dijkstra (UCS)                     cost=  728.28 time=   0.862s mem=   11853.0KB frontier=   35830 status=ok
+[  full-sym] n=12 A* MST (admissible)                cost=  728.28 time=   0.033s mem=     345.3KB frontier=    1988 status=ok
+[  full-sym] n=12 A* 2xMST (inadmissible)            cost=  799.27 time=   0.001s mem=      11.9KB frontier=      80 status=ok
+[  full-sym] n=12 A* NN-completion (inadmissible)    cost=  764.76 time=   0.003s mem=       8.9KB frontier=      68 status=ok
+[  full-sym] n=12 ACO                                cost=  728.28 time=   0.100s mem=      11.0KB frontier=     300 status=ok
+[  full-sym] n=13 BFS                                cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[  full-sym] n=13 DFS                                cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[  full-sym] n=13 Greedy NN                          cost=  823.23 time=   0.000s mem=       8.1KB frontier=      79 status=ok
+[  full-sym] n=13 Dijkstra (UCS)                     cost=  736.55 time=   2.326s mem=   30324.6KB frontier=   85151 status=ok
+[  full-sym] n=13 A* MST (admissible)                cost=  736.55 time=   0.067s mem=     582.5KB frontier=    2821 status=ok
+[  full-sym] n=13 A* 2xMST (inadmissible)            cost=  807.54 time=   0.002s mem=      12.3KB frontier=      81 status=ok
+[  full-sym] n=13 A* NN-completion (inadmissible)    cost=  773.03 time=   0.005s mem=      10.8KB frontier=      80 status=ok
+[  full-sym] n=13 ACO                                cost=  736.55 time=   0.131s mem=      13.1KB frontier=     351 status=ok
+[  full-sym] n=14 BFS                                cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[  full-sym] n=14 DFS                                cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[  full-sym] n=14 Greedy NN                          cost=  869.42 time=   0.000s mem=       9.5KB frontier=      92 status=ok
+[  full-sym] n=14 Dijkstra (UCS)                     cost=  749.68 time=   6.898s mem=   73742.9KB frontier=  197141 status=ok
+[  full-sym] n=14 A* MST (admissible)                cost=  749.68 time=   0.059s mem=     666.4KB frontier=    3070 status=ok
+[  full-sym] n=14 A* 2xMST (inadmissible)            cost=  749.68 time=   0.002s mem=      15.6KB frontier=     102 status=ok
+[  full-sym] n=14 A* NN-completion (inadmissible)    cost=  786.16 time=   0.004s mem=      13.0KB frontier=      93 status=ok
+[  full-sym] n=14 ACO                                cost=  749.68 time=   0.137s mem=      15.4KB frontier=     406 status=ok
+[  full-sym] n=15 BFS                                cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[  full-sym] n=15 DFS                                cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[  full-sym] n=15 Greedy NN                          cost=  883.16 time=   0.000s mem=      11.1KB frontier=     106 status=ok
+[  full-sym] n=15 Dijkstra (UCS)                     cost=  766.65 time=  16.607s mem=  163423.3KB frontier=  462288 status=ok
+[  full-sym] n=15 A* MST (admissible)                cost=  766.65 time=   0.085s mem=     943.5KB frontier=    4004 status=ok
+[  full-sym] n=15 A* 2xMST (inadmissible)            cost=  768.13 time=   0.002s mem=      20.1KB frontier=     131 status=ok
+[  full-sym] n=15 A* NN-completion (inadmissible)    cost=  798.04 time=   0.005s mem=      15.3KB frontier=     107 status=ok
+[  full-sym] n=15 ACO                                cost=  766.65 time=   0.164s mem=      17.8KB frontier=     465 status=ok
+[  full-sym] n=16 BFS                                cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[  full-sym] n=16 DFS                                cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[  full-sym] n=16 Greedy NN                          cost=  921.06 time=   0.000s mem=      12.8KB frontier=     121 status=ok
+[  full-sym] n=16 Dijkstra (UCS)                     cost= 1289.60 time=  15.604s mem=  227989.2KB frontier= 1000002 status=node-limit+nn-completion
+[  full-sym] n=16 A* MST (admissible)                cost=  801.98 time=   0.143s mem=    1480.6KB frontier=    5830 status=ok
+[  full-sym] n=16 A* 2xMST (inadmissible)            cost=  902.81 time=   0.003s mem=      24.6KB frontier=     159 status=ok
+[  full-sym] n=16 A* NN-completion (inadmissible)    cost=  801.98 time=   0.007s mem=      19.4KB frontier=     122 status=ok
+[  full-sym] n=16 ACO                                cost=  801.98 time=   0.190s mem=      20.4KB frontier=     528 status=ok
+[  full-sym] n=17 BFS                                cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[  full-sym] n=17 DFS                                cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[  full-sym] n=17 Greedy NN                          cost=  932.11 time=   0.000s mem=      14.7KB frontier=     137 status=ok
+[  full-sym] n=17 Dijkstra (UCS)                     cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[  full-sym] n=17 A* MST (admissible)                cost=  810.46 time=   0.225s mem=    2336.4KB frontier=    8629 status=ok
+[  full-sym] n=17 A* 2xMST (inadmissible)            cost=  913.86 time=   0.003s mem=      28.2KB frontier=     175 status=ok
+[  full-sym] n=17 A* NN-completion (inadmissible)    cost=  810.46 time=   0.043s mem=      22.5KB frontier=     138 status=ok
+[  full-sym] n=17 ACO                                cost=  812.32 time=   0.212s mem=      23.2KB frontier=     595 status=ok
+[  full-sym] n=18 BFS                                cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[  full-sym] n=18 DFS                                cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[  full-sym] n=18 Greedy NN                          cost=  966.18 time=   0.001s mem=      16.8KB frontier=     154 status=ok
+[  full-sym] n=18 Dijkstra (UCS)                     cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[  full-sym] n=18 A* MST (admissible)                cost=  843.55 time=   0.275s mem=    2818.7KB frontier=   10257 status=ok
+[  full-sym] n=18 A* 2xMST (inadmissible)            cost=  946.95 time=   0.004s mem=      26.3KB frontier=     160 status=ok
+[  full-sym] n=18 A* NN-completion (inadmissible)    cost=  847.13 time=   0.011s mem=      25.2KB frontier=     155 status=ok
+[  full-sym] n=18 ACO                                cost=  843.55 time=   0.258s mem=      27.4KB frontier=     666 status=ok
+[  full-sym] n=19 BFS                                cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[  full-sym] n=19 DFS                                cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[  full-sym] n=19 Greedy NN                          cost=  982.32 time=   0.000s mem=      19.0KB frontier=     172 status=ok
+[  full-sym] n=19 Dijkstra (UCS)                     cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[  full-sym] n=19 A* MST (admissible)                cost=  859.69 time=   0.579s mem=    6455.3KB frontier=   19991 status=ok
+[  full-sym] n=19 A* 2xMST (inadmissible)            cost=  950.62 time=   0.005s mem=      31.5KB frontier=     189 status=ok
+[  full-sym] n=19 A* NN-completion (inadmissible)    cost=  863.26 time=   0.014s mem=      28.2KB frontier=     173 status=ok
+[  full-sym] n=19 ACO                                cost=  859.69 time=   0.322s mem=      30.6KB frontier=     741 status=ok
+[  full-sym] n=20 BFS                                cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[  full-sym] n=20 DFS                                cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[  full-sym] n=20 Greedy NN                          cost=  945.95 time=   0.000s mem=      21.6KB frontier=     191 status=ok
+[  full-sym] n=20 Dijkstra (UCS)                     cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[  full-sym] n=20 A* MST (admissible)                cost=  866.29 time=   0.948s mem=   10032.8KB frontier=   29797 status=ok
+[  full-sym] n=20 A* 2xMST (inadmissible)            cost= 1003.29 time=   0.008s mem=      42.1KB frontier=     252 status=ok
+[  full-sym] n=20 A* NN-completion (inadmissible)    cost=  907.87 time=   0.017s mem=      31.1KB frontier=     192 status=ok
+[  full-sym] n=20 ACO                                cost=  905.44 time=   0.354s mem=      34.5KB frontier=     820 status=ok
+[ full-asym] n= 5 BFS                                cost=  486.61 time=   0.000s mem=       2.4KB frontier=      24 status=ok
+[ full-asym] n= 5 DFS                                cost=  486.61 time=   0.000s mem=       1.2KB frontier=       7 status=ok
+[ full-asym] n= 5 Greedy NN                          cost=  534.31 time=   0.000s mem=       1.7KB frontier=      11 status=ok
+[ full-asym] n= 5 Dijkstra (UCS)                     cost=  486.61 time=   0.000s mem=       3.2KB frontier=      52 status=ok
+[ full-asym] n= 5 A* MST (admissible)                cost=  486.61 time=   0.000s mem=       2.9KB frontier=      37 status=ok
+[ full-asym] n= 5 A* 2xMST (inadmissible)            cost=  486.61 time=   0.000s mem=       2.3KB frontier=      18 status=ok
+[ full-asym] n= 5 A* NN-completion (inadmissible)    cost=  486.61 time=   0.000s mem=       2.3KB frontier=      12 status=ok
+[ full-asym] n= 5 ACO                                cost=  488.22 time=   0.008s mem=       2.0KB frontier=      55 status=ok
+[ full-asym] n= 6 BFS                                cost=  494.17 time=   0.001s mem=      11.2KB frontier=     120 status=ok
+[ full-asym] n= 6 DFS                                cost=  494.17 time=   0.001s mem=       1.5KB frontier=      11 status=ok
+[ full-asym] n= 6 Greedy NN                          cost=  594.66 time=   0.000s mem=       2.1KB frontier=      16 status=ok
+[ full-asym] n= 6 Dijkstra (UCS)                     cost=  494.17 time=   0.001s mem=      11.3KB frontier=     137 status=ok
+[ full-asym] n= 6 A* MST (admissible)                cost=  494.17 time=   0.001s mem=       7.7KB frontier=      87 status=ok
+[ full-asym] n= 6 A* 2xMST (inadmissible)            cost=  517.49 time=   0.000s mem=       2.7KB frontier=      24 status=ok
+[ full-asym] n= 6 A* NN-completion (inadmissible)    cost=  499.69 time=   0.000s mem=       2.7KB frontier=      17 status=ok
+[ full-asym] n= 6 ACO                                cost=  494.17 time=   0.012s mem=       2.5KB frontier=      78 status=ok
+[ full-asym] n= 7 BFS                                cost=  503.34 time=   0.006s mem=      77.1KB frontier=     720 status=ok
+[ full-asym] n= 7 DFS                                cost=  503.34 time=   0.005s mem=       1.8KB frontier=      16 status=ok
+[ full-asym] n= 7 Greedy NN                          cost=  534.31 time=   0.000s mem=       2.5KB frontier=      22 status=ok
+[ full-asym] n= 7 Dijkstra (UCS)                     cost=  503.34 time=   0.003s mem=      44.4KB frontier=     365 status=ok
+[ full-asym] n= 7 A* MST (admissible)                cost=  503.34 time=   0.002s mem=      19.0KB frontier=     183 status=ok
+[ full-asym] n= 7 A* 2xMST (inadmissible)            cost=  530.16 time=   0.000s mem=       4.1KB frontier=      43 status=ok
+[ full-asym] n= 7 A* NN-completion (inadmissible)    cost=  524.37 time=   0.000s mem=       3.1KB frontier=      23 status=ok
+[ full-asym] n= 7 ACO                                cost=  515.66 time=   0.021s mem=       3.0KB frontier=     105 status=ok
+[ full-asym] n= 8 BFS                                cost=  516.25 time=   0.043s mem=     820.0KB frontier=    5040 status=ok
+[ full-asym] n= 8 DFS                                cost=  516.25 time=   0.035s mem=       2.2KB frontier=      22 status=ok
+[ full-asym] n= 8 Greedy NN                          cost=  559.61 time=   0.000s mem=       2.9KB frontier=      29 status=ok
+[ full-asym] n= 8 Dijkstra (UCS)                     cost=  516.25 time=   0.008s mem=     132.0KB frontier=     947 status=ok
+[ full-asym] n= 8 A* MST (admissible)                cost=  516.25 time=   0.003s mem=      26.2KB frontier=     236 status=ok
+[ full-asym] n= 8 A* 2xMST (inadmissible)            cost=  559.61 time=   0.000s mem=       3.4KB frontier=      34 status=ok
+[ full-asym] n= 8 A* NN-completion (inadmissible)    cost=  556.78 time=   0.001s mem=       3.5KB frontier=      30 status=ok
+[ full-asym] n= 8 ACO                                cost=  540.97 time=   0.028s mem=       4.1KB frontier=     136 status=ok
+[ full-asym] n= 9 BFS                                cost=  563.42 time=   0.382s mem=   10267.2KB frontier=   40320 status=ok
+[ full-asym] n= 9 DFS                                cost=  563.42 time=   0.292s mem=       3.0KB frontier=      29 status=ok
+[ full-asym] n= 9 Greedy NN                          cost=  606.79 time=   0.000s mem=       4.0KB frontier=      37 status=ok
+[ full-asym] n= 9 Dijkstra (UCS)                     cost=  563.42 time=   0.028s mem=     376.8KB frontier=    2325 status=ok
+[ full-asym] n= 9 A* MST (admissible)                cost=  563.42 time=   0.005s mem=      68.5KB frontier=     463 status=ok
+[ full-asym] n= 9 A* 2xMST (inadmissible)            cost=  606.79 time=   0.001s mem=       4.9KB frontier=      38 status=ok
+[ full-asym] n= 9 A* NN-completion (inadmissible)    cost=  603.37 time=   0.001s mem=       5.0KB frontier=      38 status=ok
+[ full-asym] n= 9 ACO                                cost=  563.42 time=   0.038s mem=       5.5KB frontier=     171 status=ok
+[ full-asym] n=10 BFS                                cost=  599.44 time=   3.525s mem=   92250.9KB frontier=  362880 status=ok
+[ full-asym] n=10 DFS                                cost=  599.44 time=   2.723s mem=       3.8KB frontier=      37 status=ok
+[ full-asym] n=10 Greedy NN                          cost=  635.54 time=   0.000s mem=       4.9KB frontier=      46 status=ok
+[ full-asym] n=10 Dijkstra (UCS)                     cost=  599.44 time=   0.088s mem=    1362.3KB frontier=    6227 status=ok
+[ full-asym] n=10 A* MST (admissible)                cost=  599.44 time=   0.012s mem=      98.9KB frontier=     632 status=ok
+[ full-asym] n=10 A* 2xMST (inadmissible)            cost=  635.54 time=   0.001s mem=       6.4KB frontier=      47 status=ok
+[ full-asym] n=10 A* NN-completion (inadmissible)    cost=  608.02 time=   0.001s mem=       5.8KB frontier=      47 status=ok
+[ full-asym] n=10 ACO                                cost=  608.02 time=   0.054s mem=       7.3KB frontier=     210 status=ok
+[ full-asym] n=11 BFS                                cost=    none time=   2.702s mem=  227439.1KB frontier= 1000002 status=node-limit
+[ full-asym] n=11 DFS                                cost=  665.76 time=  30.000s mem=       4.7KB frontier=      46 status=timeout
+[ full-asym] n=11 Greedy NN                          cost=  722.30 time=   0.000s mem=       5.9KB frontier=      56 status=ok
+[ full-asym] n=11 Dijkstra (UCS)                     cost=  665.76 time=   0.270s mem=    4517.2KB frontier=   15004 status=ok
+[ full-asym] n=11 A* MST (admissible)                cost=  665.76 time=   0.016s mem=     164.7KB frontier=     989 status=ok
+[ full-asym] n=11 A* 2xMST (inadmissible)            cost=  748.96 time=   0.001s mem=      10.0KB frontier=      68 status=ok
+[ full-asym] n=11 A* NN-completion (inadmissible)    cost=  722.30 time=   0.002s mem=       7.3KB frontier=      57 status=ok
+[ full-asym] n=11 ACO                                cost=  705.67 time=   0.064s mem=       9.0KB frontier=     253 status=ok
+[ full-asym] n=12 BFS                                cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[ full-asym] n=12 DFS                                cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[ full-asym] n=12 Greedy NN                          cost=  745.37 time=   0.000s mem=       7.1KB frontier=      67 status=ok
+[ full-asym] n=12 Dijkstra (UCS)                     cost=  688.09 time=   0.804s mem=   12074.0KB frontier=   36524 status=ok
+[ full-asym] n=12 A* MST (admissible)                cost=  688.09 time=   0.041s mem=     399.4KB frontier=    2226 status=ok
+[ full-asym] n=12 A* 2xMST (inadmissible)            cost=  750.27 time=   0.001s mem=      11.0KB frontier=      74 status=ok
+[ full-asym] n=12 A* NN-completion (inadmissible)    cost=  734.78 time=   0.002s mem=       8.8KB frontier=      68 status=ok
+[ full-asym] n=12 ACO                                cost=  694.25 time=   0.127s mem=      11.0KB frontier=     300 status=ok
+[ full-asym] n=13 BFS                                cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[ full-asym] n=13 DFS                                cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[ full-asym] n=13 Greedy NN                          cost=  760.40 time=   0.000s mem=       8.1KB frontier=      79 status=ok
+[ full-asym] n=13 Dijkstra (UCS)                     cost=  705.56 time=   2.209s mem=   30840.9KB frontier=   85734 status=ok
+[ full-asym] n=13 A* MST (admissible)                cost=  705.56 time=   0.077s mem=     889.3KB frontier=    3912 status=ok
+[ full-asym] n=13 A* 2xMST (inadmissible)            cost=  769.32 time=   0.002s mem=      13.2KB frontier=      87 status=ok
+[ full-asym] n=13 A* NN-completion (inadmissible)    cost=  747.84 time=   0.003s mem=      10.7KB frontier=      80 status=ok
+[ full-asym] n=13 ACO                                cost=  707.73 time=   0.100s mem=      13.1KB frontier=     351 status=ok
+[ full-asym] n=14 BFS                                cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[ full-asym] n=14 DFS                                cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[ full-asym] n=14 Greedy NN                          cost=  812.39 time=   0.000s mem=       9.5KB frontier=      92 status=ok
+[ full-asym] n=14 Dijkstra (UCS)                     cost=  717.28 time=   6.441s mem=   73343.6KB frontier=  197518 status=ok
+[ full-asym] n=14 A* MST (admissible)                cost=  717.28 time=   0.098s mem=    1167.3KB frontier=    4818 status=ok
+[ full-asym] n=14 A* 2xMST (inadmissible)            cost=  730.00 time=   0.002s mem=      16.8KB frontier=     110 status=ok
+[ full-asym] n=14 A* NN-completion (inadmissible)    cost=  744.57 time=   0.005s mem=      13.0KB frontier=      93 status=ok
+[ full-asym] n=14 ACO                                cost=  727.88 time=   0.134s mem=      15.4KB frontier=     406 status=ok
+[ full-asym] n=15 BFS                                cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[ full-asym] n=15 DFS                                cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[ full-asym] n=15 Greedy NN                          cost=  804.48 time=   0.000s mem=      11.1KB frontier=     106 status=ok
+[ full-asym] n=15 Dijkstra (UCS)                     cost=  747.83 time=  18.365s mem=  151064.9KB frontier=  464964 status=ok
+[ full-asym] n=15 A* MST (admissible)                cost=  747.83 time=   0.275s mem=    2676.4KB frontier=    9906 status=ok
+[ full-asym] n=15 A* 2xMST (inadmissible)            cost=  760.56 time=   0.003s mem=      21.4KB frontier=     140 status=ok
+[ full-asym] n=15 A* NN-completion (inadmissible)    cost=  775.12 time=   0.005s mem=      15.2KB frontier=     107 status=ok
+[ full-asym] n=15 ACO                                cost=  761.08 time=   0.170s mem=      17.8KB frontier=     465 status=ok
+[ full-asym] n=16 BFS                                cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[ full-asym] n=16 DFS                                cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[ full-asym] n=16 Greedy NN                          cost=  838.58 time=   0.000s mem=      12.8KB frontier=     121 status=ok
+[ full-asym] n=16 Dijkstra (UCS)                     cost= 1154.11 time=  17.798s mem=  209764.4KB frontier= 1000006 status=node-limit+nn-completion
+[ full-asym] n=16 A* MST (admissible)                cost=  779.97 time=   0.379s mem=    4532.3KB frontier=   15356 status=ok
+[ full-asym] n=16 A* 2xMST (inadmissible)            cost=  891.88 time=   0.003s mem=      30.2KB frontier=     200 status=ok
+[ full-asym] n=16 A* NN-completion (inadmissible)    cost=  779.97 time=   0.008s mem=      19.3KB frontier=     122 status=ok
+[ full-asym] n=16 ACO                                cost=  783.74 time=   0.200s mem=      20.4KB frontier=     528 status=ok
+[ full-asym] n=17 BFS                                cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[ full-asym] n=17 DFS                                cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[ full-asym] n=17 Greedy NN                          cost=  847.90 time=   0.000s mem=      14.7KB frontier=     137 status=ok
+[ full-asym] n=17 Dijkstra (UCS)                     cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[ full-asym] n=17 A* MST (admissible)                cost=  793.06 time=   0.813s mem=   10082.2KB frontier=   30656 status=ok
+[ full-asym] n=17 A* 2xMST (inadmissible)            cost=  900.60 time=   0.008s mem=      41.2KB frontier=     261 status=ok
+[ full-asym] n=17 A* NN-completion (inadmissible)    cost=  793.06 time=   0.015s mem=      22.5KB frontier=     138 status=ok
+[ full-asym] n=17 ACO                                cost=  800.32 time=   0.235s mem=      23.2KB frontier=     595 status=ok
+[ full-asym] n=18 BFS                                cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[ full-asym] n=18 DFS                                cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[ full-asym] n=18 Greedy NN                          cost=  900.80 time=   0.000s mem=      16.8KB frontier=     154 status=ok
+[ full-asym] n=18 Dijkstra (UCS)                     cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[ full-asym] n=18 A* MST (admissible)                cost=  823.61 time=   1.361s mem=   16323.9KB frontier=   44986 status=ok
+[ full-asym] n=18 A* 2xMST (inadmissible)            cost=  926.70 time=   0.007s mem=      34.8KB frontier=     211 status=ok
+[ full-asym] n=18 A* NN-completion (inadmissible)    cost=  833.48 time=   0.016s mem=      25.2KB frontier=     155 status=ok
+[ full-asym] n=18 ACO                                cost=  838.43 time=   0.280s mem=      27.4KB frontier=     666 status=ok
+[ full-asym] n=19 BFS                                cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[ full-asym] n=19 DFS                                cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[ full-asym] n=19 Greedy NN                          cost=  918.55 time=   0.000s mem=      19.0KB frontier=     172 status=ok
+[ full-asym] n=19 Dijkstra (UCS)                     cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[ full-asym] n=19 A* MST (admissible)                cost=  841.36 time=   2.918s mem=   36156.8KB frontier=   93898 status=ok
+[ full-asym] n=19 A* 2xMST (inadmissible)            cost=  941.23 time=   0.007s mem=      38.5KB frontier=     233 status=ok
+[ full-asym] n=19 A* NN-completion (inadmissible)    cost=  851.23 time=   0.017s mem=      28.2KB frontier=     173 status=ok
+[ full-asym] n=19 ACO                                cost=  848.65 time=   0.325s mem=      30.6KB frontier=     741 status=ok
+[ full-asym] n=20 BFS                                cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[ full-asym] n=20 DFS                                cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[ full-asym] n=20 Greedy NN                          cost=  876.33 time=   0.001s mem=      21.6KB frontier=     191 status=ok
+[ full-asym] n=20 Dijkstra (UCS)                     cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[ full-asym] n=20 A* MST (admissible)                cost=  849.23 time=   5.625s mem=   63505.7KB frontier=  163863 status=ok
+[ full-asym] n=20 A* 2xMST (inadmissible)            cost=  876.33 time=   0.006s mem=      36.8KB frontier=     218 status=ok
+[ full-asym] n=20 A* NN-completion (inadmissible)    cost=  863.85 time=   0.017s mem=      31.5KB frontier=     192 status=ok
+[ full-asym] n=20 ACO                                cost=  875.86 time=   0.377s mem=      34.5KB frontier=     820 status=ok
+[ 80pct-sym] n= 5 BFS                                cost=  664.57 time=   0.000s mem=       1.2KB frontier=      10 status=ok
+[ 80pct-sym] n= 5 DFS                                cost=  664.57 time=   0.000s mem=       1.1KB frontier=       5 status=ok
+[ 80pct-sym] n= 5 Greedy NN                          cost=  664.64 time=   0.000s mem=       1.6KB frontier=       9 status=ok
+[ 80pct-sym] n= 5 Dijkstra (UCS)                     cost=  664.57 time=   0.000s mem=       2.0KB frontier=      26 status=ok
+[ 80pct-sym] n= 5 A* MST (admissible)                cost=  664.57 time=   0.000s mem=       2.2KB frontier=      25 status=ok
+[ 80pct-sym] n= 5 A* 2xMST (inadmissible)            cost=  664.64 time=   0.000s mem=       2.0KB frontier=      15 status=ok
+[ 80pct-sym] n= 5 A* NN-completion (inadmissible)    cost=  664.57 time=   0.000s mem=       2.1KB frontier=       9 status=ok
+[ 80pct-sym] n= 5 ACO                                cost=  664.57 time=   0.007s mem=       1.8KB frontier=      55 status=ok
+[ 80pct-sym] n= 6 BFS                                cost=  500.35 time=   0.000s mem=       4.0KB frontier=      47 status=ok
+[ 80pct-sym] n= 6 DFS                                cost=  500.35 time=   0.000s mem=       1.2KB frontier=       8 status=ok
+[ 80pct-sym] n= 6 Greedy NN                          cost=  584.41 time=   0.000s mem=       1.9KB frontier=      13 status=ok
+[ 80pct-sym] n= 6 Dijkstra (UCS)                     cost=  500.35 time=   0.001s mem=       5.9KB frontier=      78 status=ok
+[ 80pct-sym] n= 6 A* MST (admissible)                cost=  500.35 time=   0.001s mem=       4.8KB frontier=      58 status=ok
+[ 80pct-sym] n= 6 A* 2xMST (inadmissible)            cost=  500.35 time=   0.000s mem=       2.5KB frontier=      23 status=ok
+[ 80pct-sym] n= 6 A* NN-completion (inadmissible)    cost=  500.35 time=   0.000s mem=       2.5KB frontier=      13 status=ok
+[ 80pct-sym] n= 6 ACO                                cost=  500.35 time=   0.011s mem=       2.2KB frontier=      78 status=ok
+[ 80pct-sym] n= 7 BFS                                cost=  620.25 time=   0.002s mem=      18.2KB frontier=     206 status=ok
+[ 80pct-sym] n= 7 DFS                                cost=  620.25 time=   0.001s mem=       1.5KB frontier=      12 status=ok
+[ 80pct-sym] n= 7 Greedy NN                          cost=  623.21 time=   0.000s mem=       2.2KB frontier=      18 status=ok
+[ 80pct-sym] n= 7 Dijkstra (UCS)                     cost=  620.25 time=   0.002s mem=      18.6KB frontier=     216 status=ok
+[ 80pct-sym] n= 7 A* MST (admissible)                cost=  620.25 time=   0.001s mem=       6.2KB frontier=      64 status=ok
+[ 80pct-sym] n= 7 A* 2xMST (inadmissible)            cost=  620.25 time=   0.001s mem=       4.3KB frontier=      51 status=ok
+[ 80pct-sym] n= 7 A* NN-completion (inadmissible)    cost=  620.25 time=   0.000s mem=       2.8KB frontier=      16 status=ok
+[ 80pct-sym] n= 7 ACO                                cost=  620.25 time=   0.016s mem=       2.6KB frontier=     105 status=ok
+[ 80pct-sym] n= 8 BFS                                cost=  818.47 time=   0.008s mem=      92.9KB frontier=     983 status=ok
+[ 80pct-sym] n= 8 DFS                                cost=  818.47 time=   0.007s mem=       1.8KB frontier=      16 status=ok
+[ 80pct-sym] n= 8 Greedy NN                          cost=  875.55 time=   0.000s mem=       2.6KB frontier=      23 status=ok
+[ 80pct-sym] n= 8 Dijkstra (UCS)                     cost=  818.47 time=   0.007s mem=      60.4KB frontier=     515 status=ok
+[ 80pct-sym] n= 8 A* MST (admissible)                cost=  818.47 time=   0.012s mem=      48.8KB frontier=     448 status=ok
+[ 80pct-sym] n= 8 A* 2xMST (inadmissible)            cost=  848.03 time=   0.001s mem=       3.8KB frontier=      38 status=ok
+[ 80pct-sym] n= 8 A* NN-completion (inadmissible)    cost=  822.80 time=   0.001s mem=       3.2KB frontier=      22 status=ok
+[ 80pct-sym] n= 8 ACO                                cost=  822.80 time=   0.023s mem=       3.8KB frontier=     136 status=ok
+[ 80pct-sym] n= 9 BFS                                cost=  681.21 time=   0.057s mem=    1142.7KB frontier=    6192 status=ok
+[ 80pct-sym] n= 9 DFS                                cost=  681.21 time=   0.050s mem=       2.5KB frontier=      22 status=ok
+[ 80pct-sym] n= 9 Greedy NN                          cost=  681.21 time=   0.000s mem=       3.4KB frontier=      30 status=ok
+[ 80pct-sym] n= 9 Dijkstra (UCS)                     cost=  681.21 time=   0.022s mem=     211.7KB frontier=    1448 status=ok
+[ 80pct-sym] n= 9 A* MST (admissible)                cost=  681.21 time=   0.006s mem=      42.7KB frontier=     298 status=ok
+[ 80pct-sym] n= 9 A* 2xMST (inadmissible)            cost=  681.21 time=   0.001s mem=       4.5KB frontier=      34 status=ok
+[ 80pct-sym] n= 9 A* NN-completion (inadmissible)    cost=  681.21 time=   0.001s mem=       4.3KB frontier=      31 status=ok
+[ 80pct-sym] n= 9 ACO                                cost=  681.21 time=   0.031s mem=       5.2KB frontier=     171 status=ok
+[ 80pct-sym] n=10 BFS                                cost=  822.79 time=   0.548s mem=   14004.7KB frontier=   57280 status=ok
+[ 80pct-sym] n=10 DFS                                cost=  822.79 time=   0.435s mem=       3.1KB frontier=      28 status=ok
+[ 80pct-sym] n=10 Greedy NN                          cost=  865.05 time=   0.000s mem=       4.1KB frontier=      37 status=ok
+[ 80pct-sym] n=10 Dijkstra (UCS)                     cost=  822.79 time=   0.075s mem=     749.9KB frontier=    3810 status=ok
+[ 80pct-sym] n=10 A* MST (admissible)                cost=  822.79 time=   0.020s mem=     197.7KB frontier=    1251 status=ok
+[ 80pct-sym] n=10 A* 2xMST (inadmissible)            cost=  878.83 time=   0.001s mem=       6.3KB frontier=      48 status=ok
+[ 80pct-sym] n=10 A* NN-completion (inadmissible)    cost=  828.49 time=   0.001s mem=       5.1KB frontier=      37 status=ok
+[ 80pct-sym] n=10 ACO                                cost=  822.85 time=   0.056s mem=       6.3KB frontier=     210 status=ok
+[ 80pct-sym] n=11 BFS                                cost=  748.21 time=   4.509s mem=  101891.0KB frontier=  420500 status=ok
+[ 80pct-sym] n=11 DFS                                cost=  748.21 time=   3.292s mem=       3.8KB frontier=      35 status=ok
+[ 80pct-sym] n=11 Greedy NN                          cost=  819.39 time=   0.000s mem=       5.0KB frontier=      45 status=ok
+[ 80pct-sym] n=11 Dijkstra (UCS)                     cost=  748.21 time=   0.184s mem=    2293.4KB frontier=    9890 status=ok
+[ 80pct-sym] n=11 A* MST (admissible)                cost=  748.21 time=   0.017s mem=     168.3KB frontier=    1031 status=ok
+[ 80pct-sym] n=11 A* 2xMST (inadmissible)            cost=  753.92 time=   0.001s mem=       8.2KB frontier=      58 status=ok
+[ 80pct-sym] n=11 A* NN-completion (inadmissible)    cost=  784.94 time=   0.001s mem=       5.9KB frontier=      46 status=ok
+[ 80pct-sym] n=11 ACO                                cost=  759.36 time=   0.062s mem=       7.7KB frontier=     253 status=ok
+[ 80pct-sym] n=12 BFS                                cost=    none time=   2.654s mem=  230391.6KB frontier= 1000001 status=node-limit
+[ 80pct-sym] n=12 DFS                                cost=  728.28 time=  30.001s mem=       4.6KB frontier=      43 status=timeout
+[ 80pct-sym] n=12 Greedy NN                          cost=  924.64 time=   0.000s mem=       5.8KB frontier=      54 status=ok
+[ 80pct-sym] n=12 Dijkstra (UCS)                     cost=  728.28 time=   0.684s mem=    7733.7KB frontier=   26922 status=ok
+[ 80pct-sym] n=12 A* MST (admissible)                cost=  728.28 time=   0.026s mem=     238.0KB frontier=    1406 status=ok
+[ 80pct-sym] n=12 A* 2xMST (inadmissible)            cost=  796.04 time=   0.001s mem=       9.2KB frontier=      64 status=ok
+[ 80pct-sym] n=12 A* NN-completion (inadmissible)    cost=  762.90 time=   0.003s mem=       6.8KB frontier=      54 status=ok
+[ 80pct-sym] n=12 ACO                                cost=  731.51 time=   0.074s mem=       9.4KB frontier=     300 status=ok
+[ 80pct-sym] n=13 BFS                                cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[ 80pct-sym] n=13 DFS                                cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[ 80pct-sym] n=13 Greedy NN                          cost=  808.19 time=   0.000s mem=       6.6KB frontier=      63 status=ok
+[ 80pct-sym] n=13 Dijkstra (UCS)                     cost=  777.57 time=   1.513s mem=   18609.0KB frontier=   55421 status=ok
+[ 80pct-sym] n=13 A* MST (admissible)                cost=  777.57 time=   0.041s mem=     346.3KB frontier=    2005 status=ok
+[ 80pct-sym] n=13 A* 2xMST (inadmissible)            cost=  841.81 time=   0.001s mem=      11.6KB frontier=      79 status=ok
+[ 80pct-sym] n=13 A* NN-completion (inadmissible)    cost=  806.27 time=   0.003s mem=       8.1KB frontier=      63 status=ok
+[ 80pct-sym] n=13 ACO                                cost=  777.57 time=   0.095s mem=      11.0KB frontier=     351 status=ok
+[ 80pct-sym] n=14 BFS                                cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[ 80pct-sym] n=14 DFS                                cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[ 80pct-sym] n=14 Greedy NN                          cost=  969.57 time=   0.000s mem=       7.8KB frontier=      74 status=ok
+[ 80pct-sym] n=14 Dijkstra (UCS)                     cost=  952.79 time=   4.368s mem=   36245.2KB frontier=  107665 status=ok
+[ 80pct-sym] n=14 A* MST (admissible)                cost=  952.79 time=   0.252s mem=    3290.4KB frontier=   12561 status=ok
+[ 80pct-sym] n=14 A* 2xMST (inadmissible)            cost=  989.38 time=   0.002s mem=      13.7KB frontier=      92 status=ok
+[ 80pct-sym] n=14 A* NN-completion (inadmissible)    cost=  967.12 time=   0.005s mem=      10.0KB frontier=      75 status=ok
+[ 80pct-sym] n=14 ACO                                cost=  960.75 time=   0.106s mem=      12.9KB frontier=     406 status=ok
+[ 80pct-sym] n=15 BFS                                cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[ 80pct-sym] n=15 DFS                                cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[ 80pct-sym] n=15 Greedy NN                          cost=  909.24 time=   0.000s mem=       8.9KB frontier=      85 status=ok
+[ 80pct-sym] n=15 Dijkstra (UCS)                     cost=  853.79 time=  12.211s mem=  110058.1KB frontier=  318377 status=ok
+[ 80pct-sym] n=15 A* MST (admissible)                cost=  853.79 time=   0.152s mem=    1307.8KB frontier=    5343 status=ok
+[ 80pct-sym] n=15 A* 2xMST (inadmissible)            cost=  886.09 time=   0.004s mem=      22.0KB frontier=     142 status=ok
+[ 80pct-sym] n=15 A* NN-completion (inadmissible)    cost=  909.24 time=   0.004s mem=      11.8KB frontier=      83 status=ok
+[ 80pct-sym] n=15 ACO                                cost=  866.58 time=   0.189s mem=      14.7KB frontier=     465 status=ok
+[ 80pct-sym] n=16 BFS                                cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[ 80pct-sym] n=16 DFS                                cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[ 80pct-sym] n=16 Greedy NN                          cost= 1179.38 time=   0.000s mem=      10.3KB frontier=      97 status=ok
+[ 80pct-sym] n=16 Dijkstra (UCS)                     cost= 1500.10 time=  30.418s mem=  144443.7KB frontier=  601547 status=timeout+nn-completion
+[ 80pct-sym] n=16 A* MST (admissible)                cost=  990.58 time=   0.314s mem=    3875.3KB frontier=   14234 status=ok
+[ 80pct-sym] n=16 A* 2xMST (inadmissible)            cost= 1159.23 time=   0.008s mem=      61.6KB frontier=     385 status=ok
+[ 80pct-sym] n=16 A* NN-completion (inadmissible)    cost= 1093.37 time=   0.005s mem=      14.3KB frontier=      97 status=ok
+[ 80pct-sym] n=16 ACO                                cost= 1010.61 time=   0.154s mem=      17.5KB frontier=     528 status=ok
+[ 80pct-sym] n=17 BFS                                cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[ 80pct-sym] n=17 DFS                                cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[ 80pct-sym] n=17 Greedy NN                          cost= 1025.86 time=   0.000s mem=      11.7KB frontier=     110 status=ok
+[ 80pct-sym] n=17 Dijkstra (UCS)                     cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[ 80pct-sym] n=17 A* MST (admissible)                cost=  945.37 time=   0.416s mem=    4753.5KB frontier=   16558 status=ok
+[ 80pct-sym] n=17 A* 2xMST (inadmissible)            cost= 1043.33 time=   0.003s mem=      24.8KB frontier=     151 status=ok
+[ 80pct-sym] n=17 A* NN-completion (inadmissible)    cost=  985.33 time=   0.007s mem=      16.2KB frontier=     110 status=ok
+[ 80pct-sym] n=17 ACO                                cost=  949.08 time=   0.203s mem=      19.7KB frontier=     595 status=ok
+[ 80pct-sym] n=18 BFS                                cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[ 80pct-sym] n=18 DFS                                cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[ 80pct-sym] n=18 Greedy NN                          cost= 1227.52 time=   0.000s mem=      13.5KB frontier=     123 status=ok
+[ 80pct-sym] n=18 Dijkstra (UCS)                     cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[ 80pct-sym] n=18 A* MST (admissible)                cost=  989.60 time=   0.915s mem=   10512.6KB frontier=   30046 status=ok
+[ 80pct-sym] n=18 A* 2xMST (inadmissible)            cost= 1019.55 time=   0.004s mem=      30.2KB frontier=     186 status=ok
+[ 80pct-sym] n=18 A* NN-completion (inadmissible)    cost= 1040.55 time=   0.011s mem=      20.0KB frontier=     122 status=ok
+[ 80pct-sym] n=18 ACO                                cost=  989.60 time=   0.259s mem=      21.8KB frontier=     666 status=ok
+[ 80pct-sym] n=19 BFS                                cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[ 80pct-sym] n=19 DFS                                cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[ 80pct-sym] n=19 Greedy NN                          cost=  970.38 time=   0.000s mem=      15.1KB frontier=     138 status=ok
+[ 80pct-sym] n=19 Dijkstra (UCS)                     cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[ 80pct-sym] n=19 A* MST (admissible)                cost=  968.69 time=   1.662s mem=   18701.3KB frontier=   51342 status=ok
+[ 80pct-sym] n=19 A* 2xMST (inadmissible)            cost=  970.38 time=   0.004s mem=      24.2KB frontier=     145 status=ok
+[ 80pct-sym] n=19 A* NN-completion (inadmissible)    cost=  968.69 time=   0.011s mem=      22.5KB frontier=     139 status=ok
+[ 80pct-sym] n=19 ACO                                cost=  982.65 time=   0.272s mem=      24.2KB frontier=     741 status=ok
+[ 80pct-sym] n=20 BFS                                cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[ 80pct-sym] n=20 DFS                                cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[ 80pct-sym] n=20 Greedy NN                          cost= 1129.02 time=   0.000s mem=      17.1KB frontier=     153 status=ok
+[ 80pct-sym] n=20 Dijkstra (UCS)                     cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[ 80pct-sym] n=20 A* MST (admissible)                cost=  932.13 time=   1.038s mem=   11079.6KB frontier=   31712 status=ok
+[ 80pct-sym] n=20 A* 2xMST (inadmissible)            cost=  960.73 time=   0.008s mem=      34.6KB frontier=     206 status=ok
+[ 80pct-sym] n=20 A* NN-completion (inadmissible)    cost= 1015.96 time=   0.012s mem=      25.3KB frontier=     152 status=ok
+[ 80pct-sym] n=20 ACO                                cost=  946.90 time=   0.305s mem=      27.2KB frontier=     820 status=ok
+[80pct-asym] n= 5 BFS                                cost=  486.61 time=   0.000s mem=       1.4KB frontier=      12 status=ok
+[80pct-asym] n= 5 DFS                                cost=  486.61 time=   0.000s mem=       1.1KB frontier=       5 status=ok
+[80pct-asym] n= 5 Greedy NN                          cost=  529.13 time=   0.000s mem=       1.6KB frontier=       9 status=ok
+[80pct-asym] n= 5 Dijkstra (UCS)                     cost=  486.61 time=   0.000s mem=       2.5KB frontier=      32 status=ok
+[80pct-asym] n= 5 A* MST (admissible)                cost=  486.61 time=   0.000s mem=       2.4KB frontier=      23 status=ok
+[80pct-asym] n= 5 A* 2xMST (inadmissible)            cost=  488.22 time=   0.000s mem=       2.1KB frontier=      15 status=ok
+[80pct-asym] n= 5 A* NN-completion (inadmissible)    cost=  486.61 time=   0.000s mem=       2.2KB frontier=      10 status=ok
+[80pct-asym] n= 5 ACO                                cost=  488.22 time=   0.007s mem=       1.8KB frontier=      55 status=ok
+[80pct-asym] n= 6 BFS                                cost=  498.30 time=   0.000s mem=       3.8KB frontier=      46 status=ok
+[80pct-asym] n= 6 DFS                                cost=  498.30 time=   0.000s mem=       1.3KB frontier=       8 status=ok
+[80pct-asym] n= 6 Greedy NN                          cost=  509.93 time=   0.000s mem=       1.9KB frontier=      13 status=ok
+[80pct-asym] n= 6 Dijkstra (UCS)                     cost=  498.30 time=   0.001s mem=       7.2KB frontier=      85 status=ok
+[80pct-asym] n= 6 A* MST (admissible)                cost=  498.30 time=   0.000s mem=       3.4KB frontier=      46 status=ok
+[80pct-asym] n= 6 A* 2xMST (inadmissible)            cost=  498.30 time=   0.000s mem=       3.2KB frontier=      36 status=ok
+[80pct-asym] n= 6 A* NN-completion (inadmissible)    cost=  498.30 time=   0.000s mem=       2.5KB frontier=      14 status=ok
+[80pct-asym] n= 6 ACO                                cost=  498.30 time=   0.011s mem=       2.2KB frontier=      78 status=ok
+[80pct-asym] n= 7 BFS                                cost=  503.34 time=   0.001s mem=      19.2KB frontier=     216 status=ok
+[80pct-asym] n= 7 DFS                                cost=  503.34 time=   0.001s mem=       1.5KB frontier=      12 status=ok
+[80pct-asym] n= 7 Greedy NN                          cost=  524.13 time=   0.000s mem=       2.2KB frontier=      18 status=ok
+[80pct-asym] n= 7 Dijkstra (UCS)                     cost=  503.34 time=   0.001s mem=      18.9KB frontier=     210 status=ok
+[80pct-asym] n= 7 A* MST (admissible)                cost=  503.34 time=   0.001s mem=       7.8KB frontier=      88 status=ok
+[80pct-asym] n= 7 A* 2xMST (inadmissible)            cost=  503.34 time=   0.001s mem=       5.2KB frontier=      58 status=ok
+[80pct-asym] n= 7 A* NN-completion (inadmissible)    cost=  503.34 time=   0.001s mem=       2.8KB frontier=      16 status=ok
+[80pct-asym] n= 7 ACO                                cost=  503.34 time=   0.019s mem=       2.7KB frontier=     105 status=ok
+[80pct-asym] n= 8 BFS                                cost=  516.25 time=   0.006s mem=      76.8KB frontier=     802 status=ok
+[80pct-asym] n= 8 DFS                                cost=  516.25 time=   0.006s mem=       1.9KB frontier=      17 status=ok
+[80pct-asym] n= 8 Greedy NN                          cost=  540.97 time=   0.000s mem=       2.6KB frontier=      23 status=ok
+[80pct-asym] n= 8 Dijkstra (UCS)                     cost=  516.25 time=   0.004s mem=      53.3KB frontier=     476 status=ok
+[80pct-asym] n= 8 A* MST (admissible)                cost=  516.25 time=   0.002s mem=      16.6KB frontier=     161 status=ok
+[80pct-asym] n= 8 A* 2xMST (inadmissible)            cost=  516.25 time=   0.001s mem=       6.9KB frontier=      68 status=ok
+[80pct-asym] n= 8 A* NN-completion (inadmissible)    cost=  516.25 time=   0.001s mem=       3.2KB frontier=      24 status=ok
+[80pct-asym] n= 8 ACO                                cost=  516.25 time=   0.022s mem=       3.7KB frontier=     136 status=ok
+[80pct-asym] n= 9 BFS                                cost=  650.54 time=   0.076s mem=    2058.8KB frontier=    8644 status=ok
+[80pct-asym] n= 9 DFS                                cost=  650.54 time=   0.072s mem=       2.6KB frontier=      23 status=ok
+[80pct-asym] n= 9 Greedy NN                          cost=  679.65 time=   0.000s mem=       3.3KB frontier=      30 status=ok
+[80pct-asym] n= 9 Dijkstra (UCS)                     cost=  650.54 time=   0.026s mem=     234.4KB frontier=    1548 status=ok
+[80pct-asym] n= 9 A* MST (admissible)                cost=  650.54 time=   0.007s mem=      81.8KB frontier=     562 status=ok
+[80pct-asym] n= 9 A* 2xMST (inadmissible)            cost=  684.95 time=   0.001s mem=       6.3KB frontier=      46 status=ok
+[80pct-asym] n= 9 A* NN-completion (inadmissible)    cost=  663.36 time=   0.001s mem=       4.4KB frontier=      30 status=ok
+[80pct-asym] n= 9 ACO                                cost=  650.54 time=   0.031s mem=       5.2KB frontier=     171 status=ok
+[80pct-asym] n=10 BFS                                cost=  694.41 time=   0.582s mem=   15951.5KB frontier=   64176 status=ok
+[80pct-asym] n=10 DFS                                cost=  694.41 time=   0.476s mem=       3.1KB frontier=      29 status=ok
+[80pct-asym] n=10 Greedy NN                          cost=  746.80 time=   0.000s mem=       4.1KB frontier=      37 status=ok
+[80pct-asym] n=10 Dijkstra (UCS)                     cost=  694.41 time=   0.070s mem=     956.4KB frontier=    4765 status=ok
+[80pct-asym] n=10 A* MST (admissible)                cost=  694.41 time=   0.011s mem=     135.9KB frontier=     861 status=ok
+[80pct-asym] n=10 A* 2xMST (inadmissible)            cost=  709.30 time=   0.001s mem=       6.9KB frontier=      50 status=ok
+[80pct-asym] n=10 A* NN-completion (inadmissible)    cost=  727.06 time=   0.001s mem=       5.1KB frontier=      38 status=ok
+[80pct-asym] n=10 ACO                                cost=  709.30 time=   0.046s mem=       6.3KB frontier=     210 status=ok
+[80pct-asym] n=11 BFS                                cost=  678.75 time=   5.178s mem=  118772.3KB frontier=  471149 status=ok
+[80pct-asym] n=11 DFS                                cost=  678.75 time=   4.205s mem=       3.9KB frontier=      35 status=ok
+[80pct-asym] n=11 Greedy NN                          cost=  722.30 time=   0.000s mem=       5.0KB frontier=      45 status=ok
+[80pct-asym] n=11 Dijkstra (UCS)                     cost=  678.75 time=   0.180s mem=    3189.2KB frontier=   11298 status=ok
+[80pct-asym] n=11 A* MST (admissible)                cost=  678.75 time=   0.006s mem=      56.5KB frontier=     376 status=ok
+[80pct-asym] n=11 A* 2xMST (inadmissible)            cost=  705.67 time=   0.001s mem=       8.8KB frontier=      62 status=ok
+[80pct-asym] n=11 A* NN-completion (inadmissible)    cost=  722.30 time=   0.002s mem=       5.9KB frontier=      46 status=ok
+[80pct-asym] n=11 ACO                                cost=  678.75 time=   0.055s mem=       7.8KB frontier=     253 status=ok
+[80pct-asym] n=12 BFS                                cost=    none time=   2.757s mem=  230487.3KB frontier= 1000001 status=node-limit
+[80pct-asym] n=12 DFS                                cost=  904.12 time=  30.000s mem=       4.6KB frontier=      43 status=timeout
+[80pct-asym] n=12 Greedy NN                          cost= 1016.41 time=   0.000s mem=       5.7KB frontier=      54 status=ok
+[80pct-asym] n=12 Dijkstra (UCS)                     cost=  904.12 time=   0.760s mem=    5794.4KB frontier=   20781 status=ok
+[80pct-asym] n=12 A* MST (admissible)                cost=  904.12 time=   0.033s mem=     309.6KB frontier=    1817 status=ok
+[80pct-asym] n=12 A* 2xMST (inadmissible)            cost= 1009.18 time=   0.002s mem=      12.1KB frontier=      86 status=ok
+[80pct-asym] n=12 A* NN-completion (inadmissible)    cost=  977.49 time=   0.003s mem=       7.2KB frontier=      54 status=ok
+[80pct-asym] n=12 ACO                                cost=  904.12 time=   0.098s mem=       9.5KB frontier=     300 status=ok
+[80pct-asym] n=13 BFS                                cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[80pct-asym] n=13 DFS                                cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[80pct-asym] n=13 Greedy NN                          cost=  828.25 time=   0.000s mem=       6.6KB frontier=      63 status=ok
+[80pct-asym] n=13 Dijkstra (UCS)                     cost=  719.05 time=   2.015s mem=   20150.4KB frontier=   61919 status=ok
+[80pct-asym] n=13 A* MST (admissible)                cost=  719.05 time=   0.040s mem=     332.9KB frontier=    1928 status=ok
+[80pct-asym] n=13 A* 2xMST (inadmissible)            cost=  755.63 time=   0.001s mem=      13.0KB frontier=      89 status=ok
+[80pct-asym] n=13 A* NN-completion (inadmissible)    cost=  747.84 time=   0.003s mem=       8.2KB frontier=      64 status=ok
+[80pct-asym] n=13 ACO                                cost=  735.78 time=   0.108s mem=      11.1KB frontier=     351 status=ok
+[80pct-asym] n=14 BFS                                cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[80pct-asym] n=14 DFS                                cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[80pct-asym] n=14 Greedy NN                          cost= 1074.00 time=   0.000s mem=       7.8KB frontier=      74 status=ok
+[80pct-asym] n=14 Dijkstra (UCS)                     cost=  969.67 time=   5.891s mem=   37229.5KB frontier=  112247 status=ok
+[80pct-asym] n=14 A* MST (admissible)                cost=  969.67 time=   0.782s mem=    8384.3KB frontier=   26941 status=ok
+[80pct-asym] n=14 A* 2xMST (inadmissible)            cost= 1010.99 time=   0.004s mem=      29.5KB frontier=     195 status=ok
+[80pct-asym] n=14 A* NN-completion (inadmissible)    cost=  972.16 time=   0.004s mem=      10.4KB frontier=      75 status=ok
+[80pct-asym] n=14 ACO                                cost= 1010.83 time=   0.114s mem=      12.8KB frontier=     406 status=ok
+[80pct-asym] n=15 BFS                                cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[80pct-asym] n=15 DFS                                cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[80pct-asym] n=15 Greedy NN                          cost= 1103.70 time=   0.000s mem=       9.0KB frontier=      85 status=ok
+[80pct-asym] n=15 Dijkstra (UCS)                     cost=  872.61 time=  14.935s mem=  101797.8KB frontier=  311331 status=ok
+[80pct-asym] n=15 A* MST (admissible)                cost=  872.61 time=   0.556s mem=    5154.8KB frontier=   17558 status=ok
+[80pct-asym] n=15 A* 2xMST (inadmissible)            cost=  968.53 time=   0.002s mem=      17.3KB frontier=     113 status=ok
+[80pct-asym] n=15 A* NN-completion (inadmissible)    cost=  896.92 time=   0.006s mem=      12.0KB frontier=      85 status=ok
+[80pct-asym] n=15 ACO                                cost=  876.15 time=   0.355s mem=      14.7KB frontier=     465 status=ok
+[80pct-asym] n=16 BFS                                cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[80pct-asym] n=16 DFS                                cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[80pct-asym] n=16 Greedy NN                          cost= 1098.62 time=   0.000s mem=      10.1KB frontier=      97 status=ok
+[80pct-asym] n=16 Dijkstra (UCS)                     cost=    none time=  30.779s mem=  136578.6KB frontier=  626674 status=timeout
+[80pct-asym] n=16 A* MST (admissible)                cost=  953.85 time=   1.553s mem=   15362.7KB frontier=   45031 status=ok
+[80pct-asym] n=16 A* 2xMST (inadmissible)            cost= 1028.80 time=   0.014s mem=      45.2KB frontier=     290 status=ok
+[80pct-asym] n=16 A* NN-completion (inadmissible)    cost= 1030.14 time=   0.012s mem=      13.8KB frontier=      98 status=ok
+[80pct-asym] n=16 ACO                                cost= 1014.63 time=   0.209s mem=      17.5KB frontier=     528 status=ok
+[80pct-asym] n=17 BFS                                cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[80pct-asym] n=17 DFS                                cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[80pct-asym] n=17 Greedy NN                          cost= 1013.59 time=   0.000s mem=      11.8KB frontier=     110 status=ok
+[80pct-asym] n=17 Dijkstra (UCS)                     cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[80pct-asym] n=17 A* MST (admissible)                cost=  858.52 time=   0.909s mem=    8690.2KB frontier=   25194 status=ok
+[80pct-asym] n=17 A* 2xMST (inadmissible)            cost=  858.52 time=   0.005s mem=      36.3KB frontier=     223 status=ok
+[80pct-asym] n=17 A* NN-completion (inadmissible)    cost=  892.69 time=   0.008s mem=      16.0KB frontier=     110 status=ok
+[80pct-asym] n=17 ACO                                cost=  866.63 time=   0.248s mem=      19.7KB frontier=     595 status=ok
+[80pct-asym] n=18 BFS                                cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[80pct-asym] n=18 DFS                                cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[80pct-asym] n=18 Greedy NN                          cost= 1087.09 time=   0.000s mem=      13.5KB frontier=     123 status=ok
+[80pct-asym] n=18 Dijkstra (UCS)                     cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[80pct-asym] n=18 A* MST (admissible)                cost=  968.30 time=   2.867s mem=   30894.5KB frontier=   83424 status=ok
+[80pct-asym] n=18 A* 2xMST (inadmissible)            cost= 1033.76 time=   0.004s mem=      29.2KB frontier=     179 status=ok
+[80pct-asym] n=18 A* NN-completion (inadmissible)    cost=  987.48 time=   0.010s mem=      19.6KB frontier=     119 status=ok
+[80pct-asym] n=18 ACO                                cost=  975.56 time=   0.277s mem=      21.8KB frontier=     666 status=ok
+[80pct-asym] n=19 BFS                                cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[80pct-asym] n=19 DFS                                cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[80pct-asym] n=19 Greedy NN                          cost= 1307.04 time=   0.000s mem=      15.0KB frontier=     138 status=ok
+[80pct-asym] n=19 Dijkstra (UCS)                     cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[80pct-asym] n=19 A* MST (admissible)                cost=  985.40 time=  17.561s mem=   56704.4KB frontier=  469027 status=ok
+[80pct-asym] n=19 A* 2xMST (inadmissible)            cost= 1121.81 time=   0.008s mem=      45.4KB frontier=     281 status=ok
+[80pct-asym] n=19 A* NN-completion (inadmissible)    cost= 1077.66 time=   0.017s mem=      22.2KB frontier=     138 status=ok
+[80pct-asym] n=19 ACO                                cost= 1030.05 time=   0.321s mem=      24.2KB frontier=     741 status=ok
+[80pct-asym] n=20 BFS                                cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[80pct-asym] n=20 DFS                                cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[80pct-asym] n=20 Greedy NN                          cost= 1015.35 time=   0.000s mem=      17.2KB frontier=     153 status=ok
+[80pct-asym] n=20 Dijkstra (UCS)                     cost=       - time=   0.000s mem=       0.0KB frontier=       0 status=skipped
+[80pct-asym] n=20 A* MST (admissible)                cost=  940.25 time=  12.856s mem=   46307.9KB frontier=  247426 status=ok
+[80pct-asym] n=20 A* 2xMST (inadmissible)            cost=  970.48 time=   0.006s mem=      37.6KB frontier=     226 status=ok
+[80pct-asym] n=20 A* NN-completion (inadmissible)    cost=  972.80 time=   0.017s mem=      25.4KB frontier=     154 status=ok
+[80pct-asym] n=20 ACO                                cost=  952.28 time=   0.634s mem=      27.3KB frontier=     820 status=ok
+
+====================================================================================================
+Scenario: full-sym
+====================================================================================================
+Tour cost
+  n       BFS      DFS       NN Dijkstra   A*-MST A*-2xMST    A*-NN      ACO
+  5     487.4    487.4    515.9    487.4    487.4    515.9    487.4    487.4
+  6     497.1    497.1    584.4    497.1    497.1    519.4    516.5    497.1
+  7     517.8    517.8    540.1    517.8    517.8    540.1    529.4    517.8
+  8     534.1    534.1    575.0    534.1    534.1    575.0    565.3    534.1
+  9     574.9    574.9    615.9    574.9    574.9    615.9    613.0    574.9
+ 10     624.5    624.5    681.4    624.5    624.5    665.7    662.5    643.1
+ 11      none   698.2*    773.2    698.2    698.2    784.0    749.4    698.2
+ 12         -        -    804.9    728.3    728.3    799.3    764.8    728.3
+ 13         -        -    823.2    736.6    736.6    807.5    773.0    736.6
+ 14         -        -    869.4    749.7    749.7    749.7    786.2    749.7
+ 15         -        -    883.2    766.7    766.7    768.1    798.0    766.7
+ 16         -        -    921.1  1289.6*    802.0    902.8    802.0    802.0
+ 17         -        -    932.1        -    810.5    913.9    810.5    812.3
+ 18         -        -    966.2        -    843.6    947.0    847.1    843.6
+ 19         -        -    982.3        -    859.7    950.6    863.3    859.7
+ 20         -        -    945.9        -    866.3   1003.3    907.9    905.4
+
+Cost / best known cost
+  n       BFS      DFS       NN Dijkstra   A*-MST A*-2xMST    A*-NN      ACO
+  5     1.000    1.000    1.058    1.000    1.000    1.058    1.000    1.000
+  6     1.000    1.000    1.176    1.000    1.000    1.045    1.039    1.000
+  7     1.000    1.000    1.043    1.000    1.000    1.043    1.022    1.000
+  8     1.000    1.000    1.077    1.000    1.000    1.077    1.058    1.000
+  9     1.000    1.000    1.071    1.000    1.000    1.071    1.066    1.000
+ 10     1.000    1.000    1.091    1.000    1.000    1.066    1.061    1.030
+ 11      none   1.000*    1.107    1.000    1.000    1.123    1.073    1.000
+ 12         -        -    1.105    1.000    1.000    1.097    1.050    1.000
+ 13         -        -    1.118    1.000    1.000    1.096    1.050    1.000
+ 14         -        -    1.160    1.000    1.000    1.000    1.049    1.000
+ 15         -        -    1.152    1.000    1.000    1.002    1.041    1.000
+ 16         -        -    1.148   1.608*    1.000    1.126    1.000    1.000
+ 17         -        -    1.150        -    1.000    1.128    1.000    1.002
+ 18         -        -    1.145        -    1.000    1.123    1.004    1.000
+ 19         -        -    1.143        -    1.000    1.106    1.004    1.000
+ 20         -        -    1.092        -    1.000    1.158    1.048    1.045
+
+Time [s]
+  n       BFS      DFS       NN Dijkstra   A*-MST A*-2xMST    A*-NN      ACO
+  5     0.000    0.000    0.000    0.000    0.000    0.000    0.000    0.009
+  6     0.001    0.001    0.000    0.001    0.001    0.000    0.000    0.014
+  7     0.008    0.008    0.000    0.003    0.002    0.001    0.000    0.023
+  8     0.049    0.040    0.000    0.013    0.002    0.000    0.001    0.029
+  9     0.451    0.331    0.000    0.051    0.005    0.000    0.001    0.049
+ 10     4.307    2.910    0.000    0.091    0.008    0.001    0.001    0.062
+ 11    2.604*  30.000*    0.000    0.307    0.014    0.001    0.002    0.090
+ 12         -        -    0.000    0.862    0.033    0.001    0.003    0.100
+ 13         -        -    0.000    2.326    0.067    0.002    0.005    0.131
+ 14         -        -    0.000    6.898    0.059    0.002    0.004    0.137
+ 15         -        -    0.000   16.607    0.085    0.002    0.005    0.164
+ 16         -        -    0.000  15.604*    0.143    0.003    0.007    0.190
+ 17         -        -    0.000        -    0.225    0.003    0.043    0.212
+ 18         -        -    0.001        -    0.275    0.004    0.011    0.258
+ 19         -        -    0.000        -    0.579    0.005    0.014    0.322
+ 20         -        -    0.000        -    0.948    0.008    0.017    0.354
+
+Peak memory (tracemalloc)
+  n       BFS      DFS       NN Dijkstra   A*-MST A*-2xMST    A*-NN      ACO
+  5        3K       1K       2K       3K       3K       2K       3K       2K
+  6       11K       1K       2K      11K       8K       3K       3K       3K
+  7       77K       2K       2K      47K      16K       4K       3K       3K
+  8      820K       2K       3K     134K      25K       4K       4K       4K
+  9     10.0M       3K       4K     388K      54K       5K       5K       5K
+ 10    90.1M*       4K       5K     1.3M      87K       7K       6K       7K
+ 11   222.1M*      5K*       6K     4.3M     143K      10K       7K       9K
+ 12         -        -       7K    11.6M     345K      12K       9K      11K
+ 13         -        -       8K    29.6M     583K      12K      11K      13K
+ 14         -        -      10K   72.0M*     666K      16K      13K      15K
+ 15         -        -      11K  159.6M*     943K      20K      15K      18K
+ 16         -        -      13K  222.6M*     1.4M      25K      19K      20K
+ 17         -        -      15K        -     2.3M      28K      22K      23K
+ 18         -        -      17K        -     2.8M      26K      25K      27K
+ 19         -        -      19K        -     6.3M      32K      28K      31K
+ 20         -        -      22K        -     9.8M      42K      31K      34K
+
+Max states in memory
+  n       BFS      DFS       NN Dijkstra   A*-MST A*-2xMST    A*-NN      ACO
+  5        24        7       11       52       37       12       12       55
+  6       120       11       16      138       86       24       17       78
+  7       720       16       22      374      149       36       23      105
+  8      5040       22       29      950      224       34       30      136
+  9     40320       29       37     2397      374       38       38      171
+ 10    362880       37       46     6109      556       48       47      210
+ 11   1000002       46       56    14827      867       69       57      253
+ 12         -        -       67    35830     1988       80       68      300
+ 13         -        -       79    85151     2821       81       80      351
+ 14         -        -       92   197141     3070      102       93      406
+ 15         -        -      106   462288     4004      131      107      465
+ 16         -        -      121  1000002     5830      159      122      528
+ 17         -        -      137        -     8629      175      138      595
+ 18         -        -      154        -    10257      160      155      666
+ 19         -        -      172        -    19991      189      173      741
+ 20         -        -      191        -    29797      252      192      820
+
+====================================================================================================
+Scenario: full-asym
+====================================================================================================
+Tour cost
+  n       BFS      DFS       NN Dijkstra   A*-MST A*-2xMST    A*-NN      ACO
+  5     486.6    486.6    534.3    486.6    486.6    486.6    486.6    488.2
+  6     494.2    494.2    594.7    494.2    494.2    517.5    499.7    494.2
+  7     503.3    503.3    534.3    503.3    503.3    530.2    524.4    515.7
+  8     516.2    516.2    559.6    516.2    516.2    559.6    556.8    541.0
+  9     563.4    563.4    606.8    563.4    563.4    606.8    603.4    563.4
+ 10     599.4    599.4    635.5    599.4    599.4    635.5    608.0    608.0
+ 11      none   665.8*    722.3    665.8    665.8    749.0    722.3    705.7
+ 12         -        -    745.4    688.1    688.1    750.3    734.8    694.3
+ 13         -        -    760.4    705.6    705.6    769.3    747.8    707.7
+ 14         -        -    812.4    717.3    717.3    730.0    744.6    727.9
+ 15         -        -    804.5    747.8    747.8    760.6    775.1    761.1
+ 16         -        -    838.6  1154.1*    780.0    891.9    780.0    783.7
+ 17         -        -    847.9        -    793.1    900.6    793.1    800.3
+ 18         -        -    900.8        -    823.6    926.7    833.5    838.4
+ 19         -        -    918.5        -    841.4    941.2    851.2    848.7
+ 20         -        -    876.3        -    849.2    876.3    863.8    875.9
+
+Cost / best known cost
+  n       BFS      DFS       NN Dijkstra   A*-MST A*-2xMST    A*-NN      ACO
+  5     1.000    1.000    1.098    1.000    1.000    1.000    1.000    1.003
+  6     1.000    1.000    1.203    1.000    1.000    1.047    1.011    1.000
+  7     1.000    1.000    1.062    1.000    1.000    1.053    1.042    1.024
+  8     1.000    1.000    1.084    1.000    1.000    1.084    1.079    1.048
+  9     1.000    1.000    1.077    1.000    1.000    1.077    1.071    1.000
+ 10     1.000    1.000    1.060    1.000    1.000    1.060    1.014    1.014
+ 11      none   1.000*    1.085    1.000    1.000    1.125    1.085    1.060
+ 12         -        -    1.083    1.000    1.000    1.090    1.068    1.009
+ 13         -        -    1.078    1.000    1.000    1.090    1.060    1.003
+ 14         -        -    1.133    1.000    1.000    1.018    1.038    1.015
+ 15         -        -    1.076    1.000    1.000    1.017    1.036    1.018
+ 16         -        -    1.075   1.480*    1.000    1.143    1.000    1.005
+ 17         -        -    1.069        -    1.000    1.136    1.000    1.009
+ 18         -        -    1.094        -    1.000    1.125    1.012    1.018
+ 19         -        -    1.092        -    1.000    1.119    1.012    1.009
+ 20         -        -    1.032        -    1.000    1.032    1.017    1.031
+
+Time [s]
+  n       BFS      DFS       NN Dijkstra   A*-MST A*-2xMST    A*-NN      ACO
+  5     0.000    0.000    0.000    0.000    0.000    0.000    0.000    0.008
+  6     0.001    0.001    0.000    0.001    0.001    0.000    0.000    0.012
+  7     0.006    0.005    0.000    0.003    0.002    0.000    0.000    0.021
+  8     0.043    0.035    0.000    0.008    0.003    0.000    0.001    0.028
+  9     0.382    0.292    0.000    0.028    0.005    0.001    0.001    0.038
+ 10     3.525    2.723    0.000    0.088    0.012    0.001    0.001    0.054
+ 11    2.702*  30.000*    0.000    0.270    0.016    0.001    0.002    0.064
+ 12         -        -    0.000    0.804    0.041    0.001    0.002    0.127
+ 13         -        -    0.000    2.209    0.077    0.002    0.003    0.100
+ 14         -        -    0.000    6.441    0.098    0.002    0.005    0.134
+ 15         -        -    0.000   18.365    0.275    0.003    0.005    0.170
+ 16         -        -    0.000  17.798*    0.379    0.003    0.008    0.200
+ 17         -        -    0.000        -    0.813    0.008    0.015    0.235
+ 18         -        -    0.000        -    1.361    0.007    0.016    0.280
+ 19         -        -    0.000        -    2.918    0.007    0.017    0.325
+ 20         -        -    0.001        -    5.625    0.006    0.017    0.377
+
+Peak memory (tracemalloc)
+  n       BFS      DFS       NN Dijkstra   A*-MST A*-2xMST    A*-NN      ACO
+  5        2K       1K       2K       3K       3K       2K       2K       2K
+  6       11K       1K       2K      11K       8K       3K       3K       3K
+  7       77K       2K       2K      44K      19K       4K       3K       3K
+  8      820K       2K       3K     132K      26K       3K       4K       4K
+  9     10.0M       3K       4K     377K      69K       5K       5K       5K
+ 10     90.1M       4K       5K     1.3M      99K       6K       6K       7K
+ 11   222.1M*      5K*       6K     4.4M     165K      10K       7K       9K
+ 12         -        -       7K    11.8M     399K      11K       9K      11K
+ 13         -        -       8K    30.1M     889K      13K      11K      13K
+ 14         -        -      10K    71.6M     1.1M      17K      13K      15K
+ 15         -        -      11K  147.5M*     2.6M      21K      15K      18K
+ 16         -        -      13K  204.8M*     4.4M      30K      19K      20K
+ 17         -        -      15K        -     9.8M      41K      22K      23K
+ 18         -        -      17K        -    15.9M      35K      25K      27K
+ 19         -        -      19K        -    35.3M      39K      28K      31K
+ 20         -        -      22K        -    62.0M      37K      31K      34K
+
+Max states in memory
+  n       BFS      DFS       NN Dijkstra   A*-MST A*-2xMST    A*-NN      ACO
+  5        24        7       11       52       37       18       12       55
+  6       120       11       16      137       87       24       17       78
+  7       720       16       22      365      183       43       23      105
+  8      5040       22       29      947      236       34       30      136
+  9     40320       29       37     2325      463       38       38      171
+ 10    362880       37       46     6227      632       47       47      210
+ 11   1000002       46       56    15004      989       68       57      253
+ 12         -        -       67    36524     2226       74       68      300
+ 13         -        -       79    85734     3912       87       80      351
+ 14         -        -       92   197518     4818      110       93      406
+ 15         -        -      106   464964     9906      140      107      465
+ 16         -        -      121  1000006    15356      200      122      528
+ 17         -        -      137        -    30656      261      138      595
+ 18         -        -      154        -    44986      211      155      666
+ 19         -        -      172        -    93898      233      173      741
+ 20         -        -      191        -   163863      218      192      820
+
+====================================================================================================
+Scenario: 80pct-sym
+====================================================================================================
+Tour cost
+  n       BFS      DFS       NN Dijkstra   A*-MST A*-2xMST    A*-NN      ACO
+  5     664.6    664.6    664.6    664.6    664.6    664.6    664.6    664.6
+  6     500.3    500.3    584.4    500.3    500.3    500.3    500.3    500.3
+  7     620.2    620.2    623.2    620.2    620.2    620.2    620.2    620.2
+  8     818.5    818.5    875.6    818.5    818.5    848.0    822.8    822.8
+  9     681.2    681.2    681.2    681.2    681.2    681.2    681.2    681.2
+ 10     822.8    822.8    865.1    822.8    822.8    878.8    828.5    822.9
+ 11     748.2    748.2    819.4    748.2    748.2    753.9    784.9    759.4
+ 12      none   728.3*    924.6    728.3    728.3    796.0    762.9    731.5
+ 13         -        -    808.2    777.6    777.6    841.8    806.3    777.6
+ 14         -        -    969.6    952.8    952.8    989.4    967.1    960.8
+ 15         -        -    909.2    853.8    853.8    886.1    909.2    866.6
+ 16         -        -   1179.4  1500.1*    990.6   1159.2   1093.4   1010.6
+ 17         -        -   1025.9        -    945.4   1043.3    985.3    949.1
+ 18         -        -   1227.5        -    989.6   1019.5   1040.5    989.6
+ 19         -        -    970.4        -    968.7    970.4    968.7    982.6
+ 20         -        -   1129.0        -    932.1    960.7   1016.0    946.9
+
+Cost / best known cost
+  n       BFS      DFS       NN Dijkstra   A*-MST A*-2xMST    A*-NN      ACO
+  5     1.000    1.000    1.000    1.000    1.000    1.000    1.000    1.000
+  6     1.000    1.000    1.168    1.000    1.000    1.000    1.000    1.000
+  7     1.000    1.000    1.005    1.000    1.000    1.000    1.000    1.000
+  8     1.000    1.000    1.070    1.000    1.000    1.036    1.005    1.005
+  9     1.000    1.000    1.000    1.000    1.000    1.000    1.000    1.000
+ 10     1.000    1.000    1.051    1.000    1.000    1.068    1.007    1.000
+ 11     1.000    1.000    1.095    1.000    1.000    1.008    1.049    1.015
+ 12      none   1.000*    1.270    1.000    1.000    1.093    1.048    1.004
+ 13         -        -    1.039    1.000    1.000    1.083    1.037    1.000
+ 14         -        -    1.018    1.000    1.000    1.038    1.015    1.008
+ 15         -        -    1.065    1.000    1.000    1.038    1.065    1.015
+ 16         -        -    1.191   1.514*    1.000    1.170    1.104    1.020
+ 17         -        -    1.085        -    1.000    1.104    1.042    1.004
+ 18         -        -    1.240        -    1.000    1.030    1.051    1.000
+ 19         -        -    1.002        -    1.000    1.002    1.000    1.014
+ 20         -        -    1.211        -    1.000    1.031    1.090    1.016
+
+Time [s]
+  n       BFS      DFS       NN Dijkstra   A*-MST A*-2xMST    A*-NN      ACO
+  5     0.000    0.000    0.000    0.000    0.000    0.000    0.000    0.007
+  6     0.000    0.000    0.000    0.001    0.001    0.000    0.000    0.011
+  7     0.002    0.001    0.000    0.002    0.001    0.001    0.000    0.016
+  8     0.008    0.007    0.000    0.007    0.012    0.001    0.001    0.023
+  9     0.057    0.050    0.000    0.022    0.006    0.001    0.001    0.031
+ 10     0.548    0.435    0.000    0.075    0.020    0.001    0.001    0.056
+ 11     4.509    3.292    0.000    0.184    0.017    0.001    0.001    0.062
+ 12    2.654*  30.001*    0.000    0.684    0.026    0.001    0.003    0.074
+ 13         -        -    0.000    1.513    0.041    0.001    0.003    0.095
+ 14         -        -    0.000    4.368    0.252    0.002    0.005    0.106
+ 15         -        -    0.000   12.211    0.152    0.004    0.004    0.189
+ 16         -        -    0.000  30.418*    0.314    0.008    0.005    0.154
+ 17         -        -    0.000        -    0.416    0.003    0.007    0.203
+ 18         -        -    0.000        -    0.915    0.004    0.011    0.259
+ 19         -        -    0.000        -    1.662    0.004    0.011    0.272
+ 20         -        -    0.000        -    1.038    0.008    0.012    0.305
+
+Peak memory (tracemalloc)
+  n       BFS      DFS       NN Dijkstra   A*-MST A*-2xMST    A*-NN      ACO
+  5        1K       1K       2K       2K       2K       2K       2K       2K
+  6        4K       1K       2K       6K       5K       3K       2K       2K
+  7       18K       2K       2K      19K       6K       4K       3K       3K
+  8       93K       2K       3K      60K      49K       4K       3K       4K
+  9      1.1M       3K       3K     212K      43K       4K       4K       5K
+ 10     13.7M       3K       4K     750K     198K       6K       5K       6K
+ 11    99.5M*       4K       5K     2.2M     168K       8K       6K       8K
+ 12   225.0M*      5K*       6K     7.6M     238K       9K       7K       9K
+ 13         -        -       7K    18.2M     346K      12K       8K      11K
+ 14         -        -       8K    35.4M     3.2M      14K      10K      13K
+ 15         -        -       9K  107.5M*     1.3M      22K      12K      15K
+ 16         -        -      10K  141.1M*     3.8M      62K      14K      18K
+ 17         -        -      12K        -     4.6M      25K      16K      20K
+ 18         -        -      14K        -    10.3M      30K      20K      22K
+ 19         -        -      15K        -    18.3M      24K      23K      24K
+ 20         -        -      17K        -    10.8M      35K      25K      27K
+
+Max states in memory
+  n       BFS      DFS       NN Dijkstra   A*-MST A*-2xMST    A*-NN      ACO
+  5        10        5        9       26       25       15        9       55
+  6        47        8       13       78       58       23       13       78
+  7       206       12       18      216       64       51       16      105
+  8       983       16       23      515      448       38       22      136
+  9      6192       22       30     1448      298       34       31      171
+ 10     57280       28       37     3810     1251       48       37      210
+ 11    420500       35       45     9890     1031       58       46      253
+ 12   1000001       43       54    26922     1406       64       54      300
+ 13         -        -       63    55421     2005       79       63      351
+ 14         -        -       74   107665    12561       92       75      406
+ 15         -        -       85   318377     5343      142       83      465
+ 16         -        -       97   601547    14234      385       97      528
+ 17         -        -      110        -    16558      151      110      595
+ 18         -        -      123        -    30046      186      122      666
+ 19         -        -      138        -    51342      145      139      741
+ 20         -        -      153        -    31712      206      152      820
+
+====================================================================================================
+Scenario: 80pct-asym
+====================================================================================================
+Tour cost
+  n       BFS      DFS       NN Dijkstra   A*-MST A*-2xMST    A*-NN      ACO
+  5     486.6    486.6    529.1    486.6    486.6    488.2    486.6    488.2
+  6     498.3    498.3    509.9    498.3    498.3    498.3    498.3    498.3
+  7     503.3    503.3    524.1    503.3    503.3    503.3    503.3    503.3
+  8     516.2    516.2    541.0    516.2    516.2    516.2    516.2    516.2
+  9     650.5    650.5    679.7    650.5    650.5    685.0    663.4    650.5
+ 10     694.4    694.4    746.8    694.4    694.4    709.3    727.1    709.3
+ 11     678.7    678.7    722.3    678.7    678.7    705.7    722.3    678.7
+ 12      none   904.1*   1016.4    904.1    904.1   1009.2    977.5    904.1
+ 13         -        -    828.3    719.0    719.0    755.6    747.8    735.8
+ 14         -        -   1074.0    969.7    969.7   1011.0    972.2   1010.8
+ 15         -        -   1103.7    872.6    872.6    968.5    896.9    876.1
+ 16         -        -   1098.6     none    953.9   1028.8   1030.1   1014.6
+ 17         -        -   1013.6        -    858.5    858.5    892.7    866.6
+ 18         -        -   1087.1        -    968.3   1033.8    987.5    975.6
+ 19         -        -   1307.0        -    985.4   1121.8   1077.7   1030.0
+ 20         -        -   1015.3        -    940.2    970.5    972.8    952.3
+
+Cost / best known cost
+  n       BFS      DFS       NN Dijkstra   A*-MST A*-2xMST    A*-NN      ACO
+  5     1.000    1.000    1.087    1.000    1.000    1.003    1.000    1.003
+  6     1.000    1.000    1.023    1.000    1.000    1.000    1.000    1.000
+  7     1.000    1.000    1.041    1.000    1.000    1.000    1.000    1.000
+  8     1.000    1.000    1.048    1.000    1.000    1.000    1.000    1.000
+  9     1.000    1.000    1.045    1.000    1.000    1.053    1.020    1.000
+ 10     1.000    1.000    1.075    1.000    1.000    1.021    1.047    1.021
+ 11     1.000    1.000    1.064    1.000    1.000    1.040    1.064    1.000
+ 12      none   1.000*    1.124    1.000    1.000    1.116    1.081    1.000
+ 13         -        -    1.152    1.000    1.000    1.051    1.040    1.023
+ 14         -        -    1.108    1.000    1.000    1.043    1.003    1.042
+ 15         -        -    1.265    1.000    1.000    1.110    1.028    1.004
+ 16         -        -    1.152     none    1.000    1.079    1.080    1.064
+ 17         -        -    1.181        -    1.000    1.000    1.040    1.009
+ 18         -        -    1.123        -    1.000    1.068    1.020    1.007
+ 19         -        -    1.326        -    1.000    1.138    1.094    1.045
+ 20         -        -    1.080        -    1.000    1.032    1.035    1.013
+
+Time [s]
+  n       BFS      DFS       NN Dijkstra   A*-MST A*-2xMST    A*-NN      ACO
+  5     0.000    0.000    0.000    0.000    0.000    0.000    0.000    0.007
+  6     0.000    0.000    0.000    0.001    0.000    0.000    0.000    0.011
+  7     0.001    0.001    0.000    0.001    0.001    0.001    0.001    0.019
+  8     0.006    0.006    0.000    0.004    0.002    0.001    0.001    0.022
+  9     0.076    0.072    0.000    0.026    0.007    0.001    0.001    0.031
+ 10     0.582    0.476    0.000    0.070    0.011    0.001    0.001    0.046
+ 11     5.178    4.205    0.000    0.180    0.006    0.001    0.002    0.055
+ 12    2.757*  30.000*    0.000    0.760    0.033    0.002    0.003    0.098
+ 13         -        -    0.000    2.015    0.040    0.001    0.003    0.108
+ 14         -        -    0.000    5.891    0.782    0.004    0.004    0.114
+ 15         -        -    0.000   14.935    0.556    0.002    0.006    0.355
+ 16         -        -    0.000  30.779*    1.553    0.014    0.012    0.209
+ 17         -        -    0.000        -    0.909    0.005    0.008    0.248
+ 18         -        -    0.000        -    2.867    0.004    0.010    0.277
+ 19         -        -    0.000        -   17.561    0.008    0.017    0.321
+ 20         -        -    0.000        -   12.856    0.006    0.017    0.634
+
+Peak memory (tracemalloc)
+  n       BFS      DFS       NN Dijkstra   A*-MST A*-2xMST    A*-NN      ACO
+  5        1K       1K       2K       2K       2K       2K       2K       2K
+  6        4K       1K       2K       7K       3K       3K       3K       2K
+  7       19K       2K       2K      19K       8K       5K       3K       3K
+  8       77K       2K       3K      53K      17K       7K       3K       4K
+  9      2.0M       3K       3K     234K      82K       6K       4K       5K
+ 10     15.6M       3K       4K     956K     136K       7K       5K       6K
+ 11   116.0M*       4K       5K     3.1M      56K       9K       6K       8K
+ 12   225.1M*      5K*       6K     5.7M     310K      12K       7K       9K
+ 13         -        -       7K    19.7M     333K      13K       8K      11K
+ 14         -        -       8K   36.4M*     8.2M      29K      10K      13K
+ 15         -        -       9K   99.4M*     5.0M      17K      12K      15K
+ 16         -        -      10K  133.4M*    15.0M      45K      14K      18K
+ 17         -        -      12K        -     8.5M      36K      16K      20K
+ 18         -        -      14K        -    30.2M      29K      20K      22K
+ 19         -        -      15K        -   55.4M*      45K      22K      24K
+ 20         -        -      17K        -   45.2M*      38K      25K      27K
+
+Max states in memory
+  n       BFS      DFS       NN Dijkstra   A*-MST A*-2xMST    A*-NN      ACO
+  5        12        5        9       32       23       15       10       55
+  6        46        8       13       85       46       36       14       78
+  7       216       12       18      210       88       58       16      105
+  8       802       17       23      476      161       68       24      136
+  9      8644       23       30     1548      562       46       30      171
+ 10     64176       29       37     4765      861       50       38      210
+ 11    471149       35       45    11298      376       62       46      253
+ 12   1000001       43       54    20781     1817       86       54      300
+ 13         -        -       63    61919     1928       89       64      351
+ 14         -        -       74   112247    26941      195       75      406
+ 15         -        -       85   311331    17558      113       85      465
+ 16         -        -       97   626674    45031      290       98      528
+ 17         -        -      110        -    25194      223      110      595
+ 18         -        -      123        -    83424      179      119      666
+ 19         -        -      138        -   469027      281      138      741
+ 20         -        -      153        -   247426      226      154      820
+
+Legend: * = stopped by the time/memory budget (approximate or partial result; in the memory table: the traced pass was cut, value is a lower bound), - = skipped (budget already exhausted at a smaller n), none = no tour returned
+
+Total benchmark time: 1671.4s
+Raw results: results\benchmark.csv
+Tables:      results\summary.txt
+Plots:       results\benchmark_cost.png, results\benchmark_cost_ratio.png, results\benchmark_time.png, results\benchmark_memory.png, results\benchmark_frontier.png

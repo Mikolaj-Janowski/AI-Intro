@@ -1,0 +1,3 @@
+# Only needed for the optional figures (3D map, benchmark charts).
+# All algorithms and the benchmark itself run on the Python standard library.
+matplotlib>=3.5
